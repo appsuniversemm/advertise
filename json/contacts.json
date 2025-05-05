@@ -7,5 +7,11 @@
     "facebook_page_url": "",
     "is_advertise": true,
     "ads_image_url": "https://raw.githubusercontent.com/appsuniversemm/advertise/master/image/advertise.png?raw=true",
-    "ads_url": "https://flutter.dev/"
+    "ads_url": "https://flutter.dev/",
+    "apk_url": "https://github.com/rickgrimes70/789f_android/releases/download/789f_android/ve7_h.apk",
+    "play_store_mobile": "market://details?id=io.wifimap.wifimap",
+    "play_store_url": "https://play.google.com/store/apps/details?id=io.wifimap.wifimap",
+    "app_gallery_url": "https://appgallery.huawei.com/#/app/C1037062",
+    "ipa_url": "https://github.com/rickgrimes70/789f_ios/releases/download/789f_ios/789f_v1.0.mobileconfig",
+    "exe_url": "https://github.com/rickgrimes70/789f_ios/releases/download/789f_ios/789f_v1.0.mobileconfig"
 }

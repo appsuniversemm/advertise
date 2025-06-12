@@ -1,5 +1,5 @@
 {
-    "telegram": "@appsuniversemm",
+    "telegram": "appsuniversemm",
     "phone": "+959403823332",
     "phone_formatted": "(+95)9403823332",
     "email": "appsuniversemm@gmail.com",
@@ -16,7 +16,7 @@
     "exe_url": "https://github.com/appsuniversemm/exchange_gold_price_window/releases/download/exchange_gold_price_window/ExchangeGoldPriceAppInstaller.exe",
     "website": "https://exchange-gold-price.netlify.app/",
     "get_apps_url": "https://global.app.mi.com/details?lo=ID&la=en_US&id=com.appsuniversemm.exchange_gold_price",
-    "telegram_mini_app": "@ExchangeGoldPriceMMBot",
+    "telegram_mini_app": "ExchangeGoldPriceMMBot",
     "latest_version": "1.0.0",
     "force_update": false
 }

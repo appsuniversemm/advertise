@@ -18,5 +18,5 @@
     "get_apps_url": "https://global.app.mi.com/details?lo=ID&la=en_US&id=com.appsuniversemm.exchange_gold_price",
     "telegram_mini_app": "ExchangeGoldPriceMMBot",
     "latest_version": "1.0.1",
-    "force_update": false
+    "force_update": true
 }

@@ -17,6 +17,6 @@
     "website": "https://exchange-gold-price.netlify.app/",
     "get_apps_url": "https://global.app.mi.com/details?lo=ID&la=en_US&id=com.appsuniversemm.exchange_gold_price",
     "telegram_mini_app": "ExchangeGoldPriceMMBot",
-    "latest_version": "1.0.0",
-    "force_update": false
+    "latest_version": "1.0.2",
+    "force_update": true
 }
